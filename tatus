@@ -1,0 +1,273 @@
+[33mcommit 308e3c87416de9de8fe22029552b177bd907cfc4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: duboye <ogunduboyeoloawale@gmail.com>
+Date:   Wed Oct 7 00:12:27 2020 +0100
+
+    Day 2
+
+[33mcommit 6dc4aced4e35b9944302d95640d7ef3cb07ba177[m
+Author: duboye <ogunduboyeoloawale@gmail.com>
+Date:   Tue Oct 6 00:28:41 2020 +0100
+
+    day01
+
+[33mcommit d19946c7e762ff0a46be039e9b79cb2b83bd163e[m
+Merge: 4203487 10b21cf
+Author: Alex Kallaway <kallaway@me.com>
+Date:   Thu Aug 27 16:24:34 2020 -0400
+
+    Merge pull request #336 from VKEA/dutch-trans
+    
+    Add Dutch translation
+
+[33mcommit 10b21cff1b3d9c32ea979d7c947e975fbde1632e[m
+Author: Zt-freak <bnkho98@hotmail.com>
+Date:   Fri Aug 14 14:57:37 2020 +0200
+
+    better translation of 'notes'
+
+[33mcommit 03991bb6868cfd75a8919bbe5ff2c34e1d6a2567[m
+Author: Zt-freak <bnkho98@hotmail.com>
+Date:   Fri Aug 14 14:52:45 2020 +0200
+
+    finished Dutch FAQ translation + added dutch links on READMEs
+
+[33mcommit 8a704b1626737a6bf441ac9be3708c9a8e65a499[m
+Author: Zt-freak <bnkho98@hotmail.com>
+Date:   Fri Aug 14 14:32:52 2020 +0200
+
+    translated a bit more of the FAQ
+
+[33mcommit 338f726e307498e5e2f547da2d21eac3d266f7c4[m
+Author: Zt-freak <bnkho98@hotmail.com>
+Date:   Tue Aug 11 16:47:02 2020 +0200
+
+    added first three dutch FAQs
+
+[33mcommit c0a3f50fefa0878b404701f8ce671459e712daa2[m
+Author: Zt-freak <bnkho98@hotmail.com>
+Date:   Tue Aug 11 15:50:05 2020 +0200
+
+    added Dutch log
+
+[33mcommit 7f2aefcf1eb435af3fc64f5c11484484a3280fdd[m
+Author: Zt-freak <bnkho98@hotmail.com>
+Date:   Tue Aug 11 15:43:13 2020 +0200
+
+    added Dutch resources
+
+[33mcommit 11c8fb9bf14920e8709e9f8288212fc617ba3c04[m
+Author: Zt-freak <bnkho98@hotmail.com>
+Date:   Tue Aug 11 15:39:01 2020 +0200
+
+    Dutch R1 log added
+
+[33mcommit 844a8022d44d0683a65aa57b7241cc996ee1ede2[m
+Author: Zt-freak <bnkho98@hotmail.com>
+Date:   Tue Aug 11 15:35:08 2020 +0200
+
+    added Dutch rules
+
+[33mcommit e7db2766a5d4cba5b566f452e9413654e4241c2d[m
+Author: Zt-freak <bnkho98@hotmail.com>
+Date:   Mon Aug 10 11:59:28 2020 +0200
+
+    added dutch readme
+
+[33mcommit 420348778130698309c2e5e331c45ac909410816[m
+Merge: b277b25 7c8fdc5
+Author: Alex Kallaway <kallaway@me.com>
+Date:   Sun Aug 9 17:09:58 2020 -0400
+
+    Update Slack invite link
+
+[33mcommit b277b25052a5019e5bce7c9796e92ee4d35a61ad[m
+Author: Alex Kallaway <kallaway@me.com>
+Date:   Sun Aug 9 17:09:23 2020 -0400
+
+    Update Slack invite link
+
+[33mcommit 7c8fdc55f9a21ab7007071744d961ef5dc3587fa[m
+Merge: 07ad8dd b884500
+Author: Alex Kallaway <kallaway@me.com>
+Date:   Tue Jul 28 21:49:05 2020 -0400
+
+    Merge pull request #321 from stanoje-web/master
+    
+    Translation in Serbian
+
+[33mcommit b884500089c1e32abc2a730122eb58dc11544e4a[m
+Author: stanoje-web <nikola@adrenalinstudio.com>
+Date:   Fri Jul 24 12:12:45 2020 +0200
+
+    Translation in Serbian
+
+[33mcommit 07ad8dd0e29fc3250b6e92b5d1ed06fc1df2cbe4[m
+Author: Alex Kallaway <kallaway@me.com>
+Date:   Mon Jun 22 23:48:52 2020 -0400
+
+    Add twitter link
+
+[33mcommit 0e2ca5c23da79abc7efe38ab70b5d08f06583217[m
+Author: Alex Kallaway <kallaway@me.com>
+Date:   Thu Jun 4 19:30:43 2020 -0400
+
+    small text changes in README
+
+[33mcommit 5a4dfa58ad379014baf353a2d84caa9db617d227[m
+Merge: 2470797 bcbc12f
+Author: Alex Kallaway <kallaway@me.com>
+Date:   Thu Jun 4 19:29:02 2020 -0400
+
+    Merge branch 'master' of github.com:kallaway/100-days-of-code
+
+[33mcommit 247079700c0833a580413be53b7d1068f6b0f1cf[m
+Author: Alex Kallaway <kallaway@me.com>
+Date:   Thu Jun 4 19:28:55 2020 -0400
+
+    Add information about the Do the Opposite newsletter and community
+
+[33mcommit bcbc12f668bea42abc3d6ec3eae67357a2f8b4eb[m
+Merge: a08d3aa 0f228df
+Author: Alex Kallaway <kallaway@me.com>
+Date:   Sat May 23 13:37:53 2020 -0400
+
+    Merge pull request #313 from DanEnglishby/resources-amendment
+    
+    Amended resources, added article link
+
+[33mcommit 0f228df1389dfa298591130a08325571fc8bf3b7[m
+Author: DanEnglishby <dannyenglishby@gmail.com>
+Date:   Sat May 23 10:17:35 2020 +0100
+
+    Amended resources, added article link
+    
+    Amended Resources.md, added link to CRUD article
+
+[33mcommit a08d3aa4b6ea781c85b460116e0d1fa22e3630c6[m
+Author: Alex Kallaway <kallaway@me.com>
+Date:   Thu May 21 22:20:00 2020 -0400
+
+    Change article link for How To Get Developer Job In Less Than A Year
+
+[33mcommit 37d919a796f840f85d64140d742c96b4001d71b9[m
+Merge: 918639c 0eaf9f2
+Author: Alex Kallaway <kallaway@me.com>
+Date:   Thu May 21 22:16:54 2020 -0400
+
+    Merge pull request #312 from leon-paul-hart/patch-2
+    
+    Updated the URL
+
+[33mcommit 0eaf9f2314d6b5793e3b09dfb3aef8725ad5009d[m
+Merge: 54ed705 918639c
+Author: Alex Kallaway <kallaway@me.com>
+Date:   Thu May 21 22:16:46 2020 -0400
+
+    Merge branch 'master' into patch-2
+
+[33mcommit 918639c9b7bb5ef20f4122aeb4f895a7a50b69b4[m
+Author: Alex Kallaway <kallaway@me.com>
+Date:   Thu May 21 22:13:58 2020 -0400
+
+    Change link to the Learning to Code: When It Gets Dark article
+
+[33mcommit 6335f2d99b36f7ae289d10ba025fd27331b5ff20[m
+Merge: 3860cdd 4b5c047
+Author: Alex Kallaway <kallaway@me.com>
+Date:   Thu May 21 22:12:36 2020 -0400
+
+    Merge pull request #311 from leon-paul-hart/patch-1
+    
+    Fixed URL to FreeCodeCamp article
+
+[33mcommit 3860cddc920868ea2ec7c9c3896eaccc46a179d6[m
+Author: Alex Kallaway <kallaway@me.com>
+Date:   Thu May 21 22:11:25 2020 -0400
+
+    Update Slack Invite Link
+
+[33mcommit 54ed705b39151aad772ec422d2a41cc2b1442e9c[m
+Author: Leon-Paul Hart <24394216+leon-paul-hart@users.noreply.github.com>
+Date:   Wed May 20 13:38:11 2020 +0100
+
+    Updated the URL
+    
+    Updated the URL for How to Get a Developer Job in Less Than a Year to use : https://www.freecodecamp.org/news/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645/
+
+[33mcommit 4b5c047d9d6fc59dc8df6796b6e42b42def7af96[m
+Author: Leon-Paul Hart <24394216+leon-paul-hart@users.noreply.github.com>
+Date:   Wed May 20 13:31:29 2020 +0100
+
+    Fixed URL to FreeCodeCamp article
+
+[33mcommit 4c6796f83f026ae8539e539926d777d246931078[m
+Author: Alex Kallaway <kallaway@me.com>
+Date:   Sun Feb 16 12:09:55 2020 -0500
+
+    Update Slack invite link
+
+[33mcommit 47addb530a979f93bbc135fdb8a51441596dbeab[m
+Author: Alexander Kallaway <kallaway@me.com>
+Date:   Mon Aug 26 11:53:01 2019 -0400
+
+    Update invite link
+
+[33mcommit c80f1cfe00aa6dcb4ab49ccfcb6a2976da01ccab[m
+Author: Alexander Kallaway <kallaway@me.com>
+Date:   Sun Apr 7 22:40:28 2019 -0400
+
+    fix invite link
+
+[33mcommit 74f12b19dc56f8f8820b1002963a1ba3b43b11af[m
+Merge: 7df0cbf 229b3fe
+Author: Alexander Kallaway <kallaway@me.com>
+Date:   Tue Jan 22 12:15:41 2019 -0500
+
+    Merge pull request #223 from kriyeng/catalan-translate
+    
+    Added Catalan translation to the repo
+
+[33mcommit 229b3fefdc0211ae50886f7c1103622b6ab2fe57[m
+Merge: e76af46 7df0cbf
+Author: David Ibáñez <kriyeng@gmail.com>
+Date:   Tue Jan 22 16:05:34 2019 +0100
+
+    Merge branch 'master' into catalan-translate
+
+[33mcommit e76af4690fd0a2782935638d01894ab92c5ab952[m
+Author: kriyeng <david@laforja.com>
+Date:   Tue Jan 22 15:58:16 2019 +0100
+
+    Added link to catalan Readme file on main Readme
+
+[33mcommit 7df0cbf62e09926a62c5c6bf2163942bc18e7455[m
+Merge: 93987ed dd57e43
+Author: Alexander Kallaway <kallaway@me.com>
+Date:   Tue Jan 22 09:48:09 2019 -0500
+
+    Merge pull request #219 from JashanBansal0708/patch-2
+    
+    Recommend users to fork the repository.
+
+[33mcommit 93987edf9d5352318424090e5abf24558bc6d3dd[m
+Merge: 59d1ff3 aa2aa71
+Author: Alexander Kallaway <kallaway@me.com>
+Date:   Tue Jan 22 09:47:26 2019 -0500
+
+    Merge pull request #197 from kokkonisd/master
+    
+    Translate 100-days-of-code repo in greek (el)
+
+[33mcommit aa2aa714369c79dd24c53dbaafaa79998a9746c4[m
+Merge: f4b2c5d 59d1ff3
+Author: Alexander Kallaway <kallaway@me.com>
+Date:   Tue Jan 22 09:46:44 2019 -0500
+
+    Merge branch 'master' into master
+
+[33mcommit 59d1ff34cb8f5b29e481e59d4522fd20c004a982[m
+Merge: ea4874f 9f9179a
+Author: Alexander Kallaway <kallaway@me.com>
+Date:   Tue Jan 22 09:43:05 2019 -0500
+
+    Merge pull request #230 from ildoc/master
