@@ -64,3 +64,15 @@ really excited while doing the project, but still clumsy with my bootstrap and c
 
 **Link to Tweet:**
 https://twitter.com/duboye_/status/1314731066310250501?s=20
+
+### R1D6
+Project zainab
+
+**Today's Progress:**
+Added carousel and Donation Button
+
+**Thoughts:**
+get tired when i dont seem to get things right...
+
+**Link to Tweet:**
+https://twitter.com/duboye_/status/1315084698440421376?s=20
