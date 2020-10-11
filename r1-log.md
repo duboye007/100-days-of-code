@@ -76,3 +76,15 @@ get tired when i dont seem to get things right...
 
 **Link to Tweet:**
 https://twitter.com/duboye_/status/1315084698440421376?s=20
+
+### R1D7
+Project zainab
+
+**Today's Progress:**
+Strted  second theme for project zainab wasnt relly satisfied with the first one, re-learning git and github
+
+**Thoughts:**
+feeling tired.. felt a bit reluctant to pick up my laptop. my head was filled with lot of IF's and IF Not..
+
+**Link to Tweet:**
+https://twitter.com/duboye_/status/1315405246617866244?s=20
