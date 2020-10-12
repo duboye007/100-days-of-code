@@ -81,10 +81,22 @@ https://twitter.com/duboye_/status/1315084698440421376?s=20
 Project zainab
 
 **Today's Progress:**
-Strted  second theme for project zainab wasnt relly satisfied with the first one, re-learning git and github
+Started  second theme for project zainab wasnt relly satisfied with the first one, re-learning git and github
 
 **Thoughts:**
 feeling tired.. felt a bit reluctant to pick up my laptop. my head was filled with lot of IF's and IF Not..
 
 **Link to Tweet:**
 https://twitter.com/duboye_/status/1315405246617866244?s=20
+
+### R1D8
+Freecodecamp tutorial
+
+**Today's Progress:**
+Destructurinig assignment, class syntax, arrow functions, getters and setters
+
+**Thoughts:**
+feeling eager to learn, today was a bit complex, had a tough time understanding some of the topic(still do) but rather than feel bad about it, instead i ws really eager to get it so replayed and sourced for other explanations
+
+**Link to Tweet:**
+https://twitter.com/duboye_/status/1315679475602870272?s=20
