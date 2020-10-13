@@ -100,3 +100,15 @@ feeling eager to learn, today was a bit complex, had a tough time understanding 
 
 **Link to Tweet:**
 https://twitter.com/duboye_/status/1315679475602870272?s=20
+
+### R1D9
+Freecodecamp tutorial
+
+**Today's Progress:**
+Regular expressions; matchinng string literals
+
+**Thoughts:**
+exhausted...
+
+**Link to Tweet:**
+https://twitter.com/duboye_/status/1316141986089521152?s=20
