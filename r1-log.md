@@ -112,3 +112,16 @@ exhausted...
 
 **Link to Tweet:**
 https://twitter.com/duboye_/status/1316141986089521152?s=20
+
+### R1D10
+Freecodecamp tutorial
+
+**Today's Progress:**
+Data structure array[initilization, push() ,pop(), unshift(), shift(), slice(), splice()], Objects{hasownProperty(), delete objects, accessing and passing objects propertys, dot notations, bracket notation, for...in statement}
+
+**Thoughts:**
+Feels like i'm getting closer everyday to where i want to be, still have little difficulty grasping certain process which atimes is demoralizing 
+
+**Link to Tweet:**
+https://twitter.com/duboye_/status/1316517350557069315?s=20
+https://twitter.com/duboye_/status/1316404918434103298?s=20
