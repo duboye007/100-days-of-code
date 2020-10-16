@@ -125,3 +125,15 @@ Feels like i'm getting closer everyday to where i want to be, still have little 
 **Link to Tweet:**
 https://twitter.com/duboye_/status/1316517350557069315?s=20
 https://twitter.com/duboye_/status/1316404918434103298?s=20
+
+### R1D11
+Youtube video tutorial
+
+**Today's Progress:**
+not much of progress went back to basics 
+
+**Thoughts:**
+had a bit of imposter syndrome wasnt feel too good with myself not being able to attempt some of the algorithm challenges on freecodecamp, so i decided to go back to the basics, watch some videos on youtube. 
+
+**Link to Tweet:**
+https://twitter.com/duboye_/status/1317238809264836610?s=20
