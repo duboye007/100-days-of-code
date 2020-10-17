@@ -137,3 +137,15 @@ had a bit of imposter syndrome wasnt feel too good with myself not being able to
 
 **Link to Tweet:**
 https://twitter.com/duboye_/status/1317238809264836610?s=20
+
+### R1D12
+Youtube tutorial
+
+**Today's Progress:**
+went back to basics
+
+**Thoughts:**
+finding it difficult to learn or code on weekends when footbll is on..need to find a solution. either i code before the match or after..
+
+**Link to Tweet:**
+https://twitter.com/duboye_/status/1317590898876829696?s=20
