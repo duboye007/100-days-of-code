@@ -149,3 +149,15 @@ finding it difficult to learn or code on weekends when footbll is on..need to fi
 
 **Link to Tweet:**
 https://twitter.com/duboye_/status/1317590898876829696?s=20
+
+### R1D13-15
+Freecodecamp tutorial
+
+**Today's Progress:**
+finished freecodecamp algorithm challenges
+
+**Thoughts:**
+had difficulty figuring things out and felt guilty i had to turn for help on youtube, but it help me pick out areas i still need to work on.. so i think thats a good thing right?
+
+**Link to Tweet:**
+https://twitter.com/duboye_/status/1318618129321349121?s=20
