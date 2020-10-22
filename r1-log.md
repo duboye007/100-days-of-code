@@ -161,3 +161,27 @@ had difficulty figuring things out and felt guilty i had to turn for help on you
 
 **Link to Tweet:**
 https://twitter.com/duboye_/status/1318618129321349121?s=20
+
+### R1D16
+Freecodecamp tutorial
+
+**Today's Progress:**
+Object oriented programming: constructors, methods, prototypes, inheritance..
+
+**Thoughts:**
+with the whole chaos going on in nigeria somehow this is the only thing that makes sense, even wiyh its complexity
+
+**Link to Tweet:**
+no tweet
+
+### R1D17
+Freecodecamp tutorial
+
+**Today's Progress:**
+re-took the Object oriented programming challenge to better understand it
+
+**Thoughts:**
+enjoyed the whole process as i took notes and extensively studied
+
+**Link to Tweet:**
+no tweet
