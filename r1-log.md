@@ -185,3 +185,15 @@ enjoyed the whole process as i took notes and extensively studied
 
 **Link to Tweet:**
 no tweet
+
+### R1D18
+Freecodecamp tutorial
+
+**Today's Progress:**
+Functional programming: map(), filter(), reduce(), concat(), join()..
+
+**Thoughts:**
+i need to practise over and over again to make it stick, cause it feels am in a bit of a hurry to learn but not actually grasping the the content before going on to next lessons...
+
+**Link to Tweet:**
+no tweet
