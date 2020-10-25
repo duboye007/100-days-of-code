@@ -197,3 +197,15 @@ i need to practise over and over again to make it stick, cause it feels am in a 
 
 **Link to Tweet:**
 no tweet
+
+### R1D19
+Wrote a medium post
+
+**Today's Progress:**
+Writing better
+
+**Thoughts:**
+My delivery was more deliberate and direct, felt like understood the content more as i typed what i learnt. 
+
+**Link to Tweet:**
+https://twitter.com/duboye_/status/1320171592564019203?s=20
