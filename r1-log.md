@@ -209,3 +209,15 @@ My delivery was more deliberate and direct, felt like understood the content mor
 
 **Link to Tweet:**
 https://twitter.com/duboye_/status/1320171592564019203?s=20
+
+### R1D20
+Research work(another name for i did nothing today)
+
+**Today's Progress:**
+not much of a progress more of preparation
+
+**Thoughts:**
+imposter syndrome .....
+
+**Link to Tweet:**
+https://twitter.com/duboye_/status/1320831695277461504?s=20
