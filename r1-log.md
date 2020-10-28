@@ -221,3 +221,15 @@ imposter syndrome .....
 
 **Link to Tweet:**
 https://twitter.com/duboye_/status/1320831695277461504?s=20
+
+### R1D21
+React.js
+
+**Today's Progress:**
+Downloaded youtube tutorials to lern from, added react and babel cdn to my index.htm, installed node.js and set up
+
+**Thoughts:**
+its  totally different world learning a whole lot of ne things, still very fuzzy dont understand much of it yet. plus a lot of external application involved. honestly a bit of doubt at the back of my head but i know its me trying to put myself off.. 
+
+**Link to Tweet:**
+https://twitter.com/duboye_/status/1321589272986746881?s=20
