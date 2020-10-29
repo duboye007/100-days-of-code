@@ -233,3 +233,13 @@ its  totally different world learning a whole lot of ne things, still very fuzzy
 
 **Link to Tweet:**
 https://twitter.com/duboye_/status/1321589272986746881?s=20
+
+### R1D21
+React.js
+
+**Today's Progress:**
+youtube video on react: how to use terminal, npm start, react create app
+
+**Thoughts:**
+a lot.......
+
