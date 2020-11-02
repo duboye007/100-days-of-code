@@ -234,7 +234,7 @@ its  totally different world learning a whole lot of ne things, still very fuzzy
 **Link to Tweet:**
 https://twitter.com/duboye_/status/1321589272986746881?s=20
 
-### R1D21
+### R1D22
 React.js
 
 **Today's Progress:**
@@ -243,3 +243,14 @@ youtube video on react: how to use terminal, npm start, react create app
 **Thoughts:**
 a lot.......
 
+**Link to Tweet:**
+no tweet
+
+### R1D23
+youtube react tutorial
+
+**Today's Progress:**
+learnt useState, import, react fragment spread operators
+
+**Thoughts:**
+i am beginning to pick up on the logic and the concept of react, still a slow start but with more practise and re re practising should be able to fix the whole together, turns out my eekends are the orst..are barely code(watch the football matches instead) need to work something out..
