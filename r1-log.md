@@ -254,3 +254,16 @@ learnt useState, import, react fragment spread operators
 
 **Thoughts:**
 i am beginning to pick up on the logic and the concept of react, still a slow start but with more practise and re re practising should be able to fix the whole together, turns out my eekends are the orst..are barely code(watch the football matches instead) need to work something out..
+
+
+### R1D24
+youtube react tutorial
+
+**Today's Progress:**
+useEffect, conditional rendering
+
+**Thoughts:**
+once i get a hang of a concept..a new one comes on looking more complex until i finally get it..plus i tend to give myself a break when i figure things out..
+
+**Link to Tweet:**
+https://twitter.com/duboye_/status/1323756112089370624?s=20
