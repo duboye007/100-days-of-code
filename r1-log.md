@@ -267,3 +267,21 @@ once i get a hang of a concept..a new one comes on looking more complex until i 
 
 **Link to Tweet:**
 https://twitter.com/duboye_/status/1323756112089370624?s=20
+
+### R1D25-32
+youtube react tutorial
+
+**Today's Progress:**
+conditional rendering
+short-circuit
+ternary operators
+got an internship offer
+single inputs
+multiple inputs
+
+**Thoughts:**
+progessively overwhelmed, gratefull, anxious on my new role, excited ....
+
+**Link to Tweet:**
+https://twitter.com/duboye_/status/1325926156953063424?s=20
+https://twitter.com/duboye_/status/1325926612060295168?s=20
